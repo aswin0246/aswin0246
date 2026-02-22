@@ -1,44 +1,94 @@
-<h1 align="center">Hey there! 👋 I'm Aswin Ragav S A</h1>
+<h1 align="center">🔥 ASWIN RAGAV S A 🔥</h1>
+
+<h3 align="center">
+🚀 Aspiring Cloud & DevOps Engineer | 💻 Full Stack Developer
+</h3>
 
 <p align="center">
-  🎓 Computer Science & Engineering Student <br/>
-  ☁️ AWS Cloud Enthusiast | 💻 Web Developer | 🔧 DevOps Learner
+  <img src="https://media.giphy.com/media/VeWllmR9zfaco/giphy.gif" width="600" alt="Optimus Prime Transforming"/>
 </p>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/61/f9/b9/61f9b94c2b6b8aa7f7f540ce5b334b7e.gif" alt="dev gif" width="500"/>
-</p>
+
 ---
 
-### 🚀 Tech Stack I Know
+## 👨‍💻 About Me
+
+- 🎓 Computer Science & Engineering Student  
+- ☁️ Passionate about AWS, Cloud Architecture & DevOps  
+- 🔥 Love building Full Stack Web Applications  
+- ⚙️ Exploring Automation & CI/CD  
+- 🌍 Goal: Become a Cloud & DevOps Architect  
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Frontend
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </p>
 
----
-
-### 🧠 Currently Learning
+### 🧠 Backend
 <p>
-  <img src="https://img.shields.io/badge/SpringToolSuite-6DB33F?logo=spring&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,java,nodejs,flask,spring" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+</p>
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ---
+## 🛠️ Featured Projects
 
-### 🛠️ Projects Showcase
-- 🌦️ Weather Forecast App (6-day forecast, animation, dark/light mode)
-- ❌⭕ Tic Tac Toe Game
-- ⏱️ Stopwatch Timer App
-- 📊 AWS-Based Content Recommendation System
+### 🗑️ Smart Bin Monitoring System (IoT + Cloud)
 
+An intelligent waste management system that monitors garbage bin levels in real time.
+
+**Key Features**
+- Ultrasonic sensor detects bin fill level
+- NodeMCU (ESP8266) sends data to cloud
+- Live dashboard monitoring
+- Overflow alert notification
+- Helps municipalities optimize waste collection routes
+
+**Tech Used**
+`IoT` `NodeMCU` `Sensors` `AWS / Cloud` `Realtime Monitoring`
+
+---
+
+### 🧑‍💼 Workforce Management System (Full Stack)
+
+A web application to manage employees, attendance and task assignments inside an organization.
+
+**Key Features**
+- Admin & Employee Login Authentication
+- Attendance Tracking
+- Task Assignment System
+- Employee Records Management
+- Dashboard Analytics
+
+**Tech Used**
+`HTML` `CSS` `JavaScript` `React` `Node.js` `MySQL`
+
+---
+
+### 📊 AWS Content Recommendation System
+
+A cloud-based recommendation engine that suggests content to users based on interaction.
+
+**Key Features**
+- User behavior analysis
+- Cloud data storage
+- Personalized recommendations
+- Deployed on AWS services
+
+**Tech Used**
+`Python` `AWS` `Cloud Computing` `Database`
 ---
 
 ### 🏆 Achievements
@@ -50,25 +100,46 @@
 
 ---
 
-### 📊 My Coding Profiles
+## 📊 GitHub Stats
 
-#### 💡 LeetCode
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Aswinragav6?theme=light&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/Aswinragav6)
-
-#### 📗 GeeksforGeeks
-[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white&style=for-the-badge)](https://auth.geeksforgeeks.org/user/aswinraga2ajn)
-
-#### 💻 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aswin0246&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aswin0246&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aswin0246&show_icons=true&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin0246&layout=compact&theme=radical&hide_border=true" height="180"/>
+</p>
 
 ---
 
-### 🔗 Connect with Me
+## 🔥 LeetCode Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aswin-ragav-s-a-883b11276)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/aswin0246)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Aswinragav6?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+</p>
 
 ---
 
-<p align="center"><b>“Dream big. Work hard. Stay humble.”</b></p>
+## 🏆 Achievements, Hackathons & Certifications
+
+### 🥇 Major Achievement
+- 🏅 **Smart India Hackathon (SIH) Finalist – December 2025**
+
+### 💻 Hackathons & Competitions
+- 🚀 Participated in **Hack the Horizon – VIT (Aug 2024)**
+- 💡 Participated in **Innothon – KCG College (20–21 Sep 2024)**
+- 🧠 Participated in **CTL Ideathon & Design Thinking – KCG College of Technology**
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/aswin-ragav-s-a-883b11276">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/aswin0246">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<h3 align="center">⚡ "Dream Big. Build Bigger. Deploy Smart." ⚡</h3>
