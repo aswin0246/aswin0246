@@ -2,10 +2,10 @@
 <p align="right">
 <img src="https://komarev.com/ghpvc/?username=aswin0246&label=Profile%20Views&color=00F7FF&style=flat-square" />
 </p>
-
+<h1>ASWIN RAGAV S A</h1>
 <!-- TYPING ANIMATION HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=🔥+ASWIN+RAGAV+S+A+🔥;Cloud+%26+DevOps+Engineer;Full+Stack+Developer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Automation;Dream+Big.+Build+Bigger.+Deploy+Smarter." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=;Cloud+%26+DevOps+Engineer;Full+Stack+Developer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Automation;Dream+Big.+Build+Bigger.+Deploy+Smarter." />
 </h1>
 
 <!-- Animated Wave Header -->
