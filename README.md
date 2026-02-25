@@ -1,134 +1,142 @@
-<h1 align="center">🔥 ASWIN RAGAV S A 🔥</h1>
+<!-- PROFILE VIEWS -->
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=aswin0246&label=Profile%20Views&color=00F7FF&style=flat-square" />
+</p>
 
-<h3 align="center">
-🚀 Aspiring Cloud & DevOps Engineer | 💻 Full Stack Developer
-</h3>
+<!-- TYPING ANIMATION HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=🔥+ASWIN+RAGAV+S+A+🔥;Cloud+%26+DevOps+Engineer;Full+Stack+Developer;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Automation;Dream+Big.+Build+Bigger.+Deploy+Smarter." />
+</h1>
+
+<!-- Animated Wave Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A0F2C&height=180&section=header&text=Build%20•%20Automate%20•%20Deploy&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 4K MOVIE STYLE TRANSFORMERS GIF -->
+<p align="center">
+  <img src="https://i.imgur.com/9Xn6GQY.gif" width="900" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name: Aswin Ragav S A
+Role: Aspiring Cloud & DevOps Architect
+Education: B.E Computer Science & Engineering
+Location: India
+
+Specialization:
+  - Cloud Architecture (AWS)
+  - CI/CD Automation
+  - Infrastructure as Code
+  - Full Stack Development
+
+Currently Learning:
+  - Advanced AWS Services
+  - Kubernetes
+  - System Design
+  - Microservices Architecture
+
+Mission:
+  Build scalable systems that solve real-world problems 🚀
+```
+
+---
+
+# ⚡ Tech Arsenal
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VeWllmR9zfaco/giphy.gif" width="600" alt="Optimus Prime Transforming"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,nodejs,python,java,flask,spring,mysql,mongodb,aws,docker,linux,git,github&perline=8" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🛠️ Featured Projects
 
-- 🎓 Computer Science & Engineering Student  
-- ☁️ Passionate about AWS, Cloud Architecture & DevOps  
-- 🔥 Love building Full Stack Web Applications  
-- ⚙️ Exploring Automation & CI/CD  
-- 🌍 Goal: Become a Cloud & DevOps Architect  
+## 🗑️ Smart Bin Monitoring System (IoT + Cloud)
 
----
-
-## 🚀 Tech Stack
-
-### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-### 🧠 Backend
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,flask,spring" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
-
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-## 🛠️ Featured Projects
-
-### 🗑️ Smart Bin Monitoring System (IoT + Cloud)
-
-An intelligent waste management system that monitors garbage bin levels in real time.
+An intelligent waste management system that monitors garbage bin levels in real-time.
 
 **Key Features**
 - Ultrasonic sensor detects bin fill level
 - NodeMCU (ESP8266) sends data to cloud
-- Live dashboard monitoring
+- Real-time dashboard monitoring
 - Overflow alert notification
-- Helps municipalities optimize waste collection routes
+- Optimized waste collection routes
 
 **Tech Used**
-`IoT` `NodeMCU` `Sensors` `AWS / Cloud` `Realtime Monitoring`
+`IoT` `NodeMCU` `Sensors` `AWS` `Cloud Monitoring`
 
 ---
 
-### 🧑‍💼 Workforce Management System (Full Stack)
+## 🧑‍💼 Workforce Management System (Full Stack)
 
-A web application to manage employees, attendance and task assignments inside an organization.
+A web application to manage employees, attendance, and task assignments.
 
 **Key Features**
-- Admin & Employee Login Authentication
-- Attendance Tracking
-- Task Assignment System
+- Secure Admin & Employee Authentication
+- Attendance & Task Tracking
 - Employee Records Management
 - Dashboard Analytics
 
 **Tech Used**
-`HTML` `CSS` `JavaScript` `React` `Node.js` `MySQL`
+`React` `Node.js` `MySQL` `JavaScript` `REST API`
 
 ---
 
-### 📊 AWS Content Recommendation System
+## 📊 AWS Content Recommendation System
 
-A cloud-based recommendation engine that suggests content to users based on interaction.
+A cloud-based recommendation engine that suggests personalized content.
 
 **Key Features**
-- User behavior analysis
-- Cloud data storage
-- Personalized recommendations
-- Deployed on AWS services
+- User behavior tracking
+- Cloud database storage
+- Recommendation logic engine
+- Deployed using AWS services
 
 **Tech Used**
 `Python` `AWS` `Cloud Computing` `Database`
----
-
-### 🏆 Achievements
-- ✅ Completed "DevOps Fundamentals" – Alison
-- 🎨 Completed UI/UX Design – Infosys Springboard
-- ☁️ Completed AWS Cloud Projects
-- 💼 Internship at Trivecta Digital Solutions Pvt. Ltd.
-- 🇬🇧 Cambridge B2 Linguaskill Certified
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements & Certifications
+
+- 🏅 Smart India Hackathon (SIH) Finalist – December 2025  
+- 🎓 DevOps Fundamentals – Alison  
+- 🎨 UI/UX Design – Infosys Springboard  
+- ☁️ Completed AWS Cloud Projects  
+- 💼 Internship – Trivecta Digital Solutions Pvt. Ltd.  
+- 🇬🇧 Cambridge B2 Linguaskill Certified  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aswin0246&show_icons=true&theme=radical&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin0246&layout=compact&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aswin0246&show_icons=true&theme=tokyonight&hide_border=true" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin0246&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-## 🔥 LeetCode Stats
+# 📈 Contribution Graph
+
+[![Aswin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aswin0246&theme=react-dark&hide_border=true)](https://github.com/aswin0246)
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Aswinragav6?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+<img src="https://raw.githubusercontent.com/aswin0246/aswin0246/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏆 Achievements, Hackathons & Certifications
-
-### 🥇 Major Achievement
-- 🏅 **Smart India Hackathon (SIH) Finalist – December 2025**
-
-### 💻 Hackathons & Competitions
-- 🚀 Participated in **Hack the Horizon – VIT (Aug 2024)**
-- 💡 Participated in **Innothon – KCG College (20–21 Sep 2024)**
-- 🧠 Participated in **CTL Ideathon & Design Thinking – KCG College of Technology**
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aswin-ragav-s-a-883b11276">
@@ -142,4 +150,11 @@ A cloud-based recommendation engine that suggests content to users based on inte
 
 ---
 
-<h3 align="center">⚡ "Dream Big. Build Bigger. Deploy Smart." ⚡</h3>
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F2C,100:00F7FF&height=120&section=footer"/>
+</p>
+
+<h3 align="center">
+⚡ "Dream Big. Build Bigger. Deploy Smarter." ⚡
+</h3>
